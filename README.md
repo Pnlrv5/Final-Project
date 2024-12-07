@@ -54,7 +54,9 @@ Structure:
 <title>: Sets the title that appears in the browser tab.
 <body>: Where the visible content of your webpage goes.
 
+
 STEP TWO.
+
   
 Add CSS for Style:
 Create a "style.css" file: In the same folder as your "index.html", create a new file named "style.css".
@@ -80,7 +82,9 @@ font-family: Sets the font type.
 background-color: Changes the background color.
 text-align: Aligns text on the page.
 
+
 STEP THREE.
+
 
 Preview your website:
 Open the website in browser.
