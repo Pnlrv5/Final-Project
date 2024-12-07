@@ -6,6 +6,10 @@ This Tutorial will guide you through the basic steps of creating a webpage using
 The target audience is for beginners.
 
 
+
+
+
+
 Things needed:
 text editor (VS code, basic notpad etc).
 web browser (Chrome, Safari).
